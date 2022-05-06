@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on ... Data Analysis
 - 🤔 I’m looking for help with ... Real industrial problems for Data Science 
 - 💬 Ask me about ... anything!
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I lived in 6 countries in the major four continents!
 -->
